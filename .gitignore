@@ -1,4 +1,4 @@
-/venv/*
-/calculation/__pycache__/
-/pages/__pycache__/
+venv/*
+calculation/__pycache__/
+pages/__pycache__/
 *.pyc
